@@ -26,9 +26,6 @@ const Palette = () => {
             <div
               onMouseEnter={() => setColorWrapperId(index)}
               onMouseLeave={() => setColorWrapperId(null)}
-              onClick={() =>
-                setArrayColors(arrayColors.filter((el, ind) => ind !== index))
-              }
               style={{ backgroundColor: `${color}` }}
               className={styles.colorWrapper}
               key={color}
