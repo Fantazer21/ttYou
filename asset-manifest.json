@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ttYou/static/css/main.08335ad8.css",
+    "main.js": "/ttYou/static/js/main.f89d231b.js",
+    "static/js/787.d3d73b54.chunk.js": "/ttYou/static/js/787.d3d73b54.chunk.js",
+    "static/media/Vector.svg": "/ttYou/static/media/Vector.adaec920925227754ec1b1549a9c9535.svg",
+    "static/media/Icon.svg": "/ttYou/static/media/Icon.f8c2dd582a0004c10d46c5a2b7fa5fd6.svg",
+    "index.html": "/ttYou/index.html",
+    "main.08335ad8.css.map": "/ttYou/static/css/main.08335ad8.css.map",
+    "main.f89d231b.js.map": "/ttYou/static/js/main.f89d231b.js.map",
+    "787.d3d73b54.chunk.js.map": "/ttYou/static/js/787.d3d73b54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08335ad8.css",
+    "static/js/main.f89d231b.js"
+  ]
+}
