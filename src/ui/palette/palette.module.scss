@@ -1,0 +1,51 @@
+@import "src/assets/styles/colors.scss";
+@import "src/assets/styles/fonts.scss";
+
+.paletteWrapper {
+  margin: 40px 70px;
+  width: 326px;
+  display: flex;
+  flex-direction: column;
+}
+
+.colorsWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 149px;
+  max-height: 150px;
+  overflow: hidden;
+}
+
+.colorWrapper {
+  width: 54px;
+  height: 54px;
+  background-color: $skyBlue;
+  border-radius: 6px;
+  margin: 0 25px 25px 0;
+}
+
+.cross {
+  cursor: pointer;
+  margin-left: 37px;
+}
+
+.sketchWrapper {
+  height: 315px;
+}
+
+.btn {
+  @include h1;
+  width: 100%;
+  margin-top: 40px;
+  background: #007aff;
+  border-radius: 8px;
+  text-align: center;
+  letter-spacing: -0.408px;
+  color: $white;
+  cursor: pointer;
+  transition: 0.4s;
+
+  &:hover {
+    color: $gray6;
+  }
+}
